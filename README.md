@@ -1,5 +1,5 @@
 # AppTapp Framework
-The [AppTapp Installer 3 framework](https://github.com/AppTapp/Installer-3) in Swift.
+The [AppTapp Installer 3 framework](https://github.com/AppTapp/Installer-3/tree/master/Framework) in Swift.
 
 If you're interested in contributing, please make a fork and make a pull request with your changes.
 
