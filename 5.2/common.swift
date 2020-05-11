@@ -1,6 +1,6 @@
 import Foundation
 import CoreFoundation
-import ObjectiveC
+
 let preferences = UserDefaults()
 let __REFRESH_INTERVAL__ = 60 * 60 * 12
 let __PRIVATE_PATH__ = ["/Applications/Installer.app/Library"]
